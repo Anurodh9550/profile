@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="58" fill="#0b1f3a" stroke="#1e88e5" stroke-width="3"/>
+  <path d="M68 32L48 62h12l-5 26 22-34H68l3-22z" fill="#e53935"/>
+  <path d="M52 32L42 52h8l-2 12 14-22H52l2-10z" fill="#1e88e5" opacity="0.8"/>
+  <text x="60" y="98" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="8.5" font-weight="700" letter-spacing="0.5">SPARS BATTERY</text>
+</svg>

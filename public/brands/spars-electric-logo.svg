@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="58" fill="#0b1f3a" stroke="#00c853" stroke-width="3"/>
+  <path d="M65 30L45 65h14l-4 25 24-38H65l4-22z" fill="#00c853"/>
+  <text x="60" y="98" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">SPARS ELECTRIC</text>
+</svg>

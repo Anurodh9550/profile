@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Kalpna Traders">
+  <circle cx="60" cy="60" r="58" fill="#0b1f3a" stroke="#00c853" stroke-width="2.5"/>
+  <circle cx="60" cy="40" r="11.5" fill="#ffffff"/>
+  <path d="M37.5 77c0-12.4 10.1-22.5 22.5-22.5s22.5 10.1 22.5 22.5" fill="#ffffff"/>
+  <path d="M60 49 L56.5 62 L60 72 L63.5 62 Z" fill="#00c853"/>
+  <rect x="58.5" y="49" width="3" height="8" rx="0.5" fill="#00c853"/>
+  <text x="60" y="100" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="7" font-weight="700" letter-spacing="1.4">KALPNA TRADERS</text>
+</svg>
