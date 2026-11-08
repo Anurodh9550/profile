@@ -43,7 +43,6 @@ export default function HomePage() {
               <BrandLogo key={b.id} brandId={b.id} size={44} className="hero__brand-icon" />
             ))}
           </div>
-          <span className="hero__badge">{COMPANY.legalName} · Noida, UP</span>
           <h1>
             <span>Kalpana Traders</span> — Powering India&apos;s EV Future
           </h1>
