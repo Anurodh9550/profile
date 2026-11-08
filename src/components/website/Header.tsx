@@ -5,7 +5,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { COMPANY, NAV_MENU } from "@/lib/brand";
-import { IMAGES } from "@/lib/images";
 
 function isActive(pathname: string, href: string) {
   if (href === "/") return pathname === "/";
@@ -75,10 +74,10 @@ export function Header() {
       <div className="site-container site-header__inner">
         <Link href="/" className="site-logo" onClick={() => setMobileOpen(false)}>
           <Image
-            src={IMAGES.logo}
+            src="/brands/kalpana-traders-mark.png"
             alt="Kalpana Traders logo"
-            width={44}
-            height={44}
+            width={56}
+            height={52}
             className="site-logo__img"
             priority
           />
