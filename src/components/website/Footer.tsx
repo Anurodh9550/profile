@@ -11,7 +11,7 @@ export function Footer() {
           <div className="site-footer__brand">
             <Image
               src={IMAGES.logo}
-              alt="Kalpna Traders"
+              alt="Kalpana Traders"
               width={48}
               height={48}
               className="site-logo__img"

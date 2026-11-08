@@ -60,7 +60,7 @@ export default function CareersPage() {
                 ))}
               </ul>
             </div>
-            <SectionImage src={IMAGES.team} alt="Team at Kalpna Traders" />
+            <SectionImage src={IMAGES.team} alt="Team at Kalpana Traders" />
           </div>
         </div>
       </section>

@@ -49,7 +49,7 @@ function CoverPage({ page }: { page: ProfilePageData }) {
           <div>
             <Image
               src={IMAGES.logo}
-              alt="Kalpna Traders"
+              alt="Kalpana Traders"
               width={88}
               height={88}
               className="profile-cover__logo-img"

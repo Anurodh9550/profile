@@ -76,7 +76,7 @@ export function Header() {
         <Link href="/" className="site-logo" onClick={() => setMobileOpen(false)}>
           <Image
             src={IMAGES.logo}
-            alt="Kalpna Traders logo"
+            alt="Kalpana Traders logo"
             width={44}
             height={44}
             className="site-logo__img"

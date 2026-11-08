@@ -58,7 +58,7 @@ export function defaultMeta(
       "Premium corporate layout with navy anchor, white content field, and green accent highlights. Maintain generous whitespace and left-edge brand stripe.",
     colors: "Dark Navy #0B1F3A · White #FFFFFF · Electric Green #00C853 · Silver #D9E2EC",
     layout: "A4 portrait · Left accent bar · Header title block · Two-column content where applicable",
-    footer: "SPARS ELECTRIC · Mass Kalpna Traders · Confidential Corporate Profile",
+    footer: "SPARS ELECTRIC · Mass Kalpana Traders · Confidential Corporate Profile",
     ...partial,
   };
 }

@@ -12,12 +12,12 @@ export type GroupBrand = {
 };
 
 export const COMPANY = {
-  legalName: "Mass Kalpna Traders",
-  tradeName: "Kalpna Traders",
+  legalName: "Mass Kalpana Traders",
+  tradeName: "Kalpana Traders",
   tagline: "Multi-Brand Manufacturing · Trading · Technology Group",
   address: "C-77, Sector 63A, Noida, Uttar Pradesh, India",
-  website: "www.kalpnatraders.in",
-  email: "contact@kalpnatraders.in",
+  website: "www.kalpanatraders.in",
+  email: "contact@kalpanatraders.in",
   phone: "+91 92899 75453",
 } as const;
 
@@ -49,7 +49,7 @@ export const GROUP_BRANDS: GroupBrand[] = [
     tagline: "Power · Performance · Reliability",
     segment: "Energy & Battery",
     description:
-      "SPARS Battery is a dedicated lithium-ion manufacturing division of Mass Kalpna Traders — producing premium EV battery packs at scale from Noida. With automated assembly lines, smart BMS integration, multi-capacity 48V range, and pan-India dealer supply, SPARS Battery is built to power India's electric mobility revolution.",
+      "SPARS Battery is a dedicated lithium-ion manufacturing division of Mass Kalpana Traders — producing premium EV battery packs at scale from Noida. With automated assembly lines, smart BMS integration, multi-capacity 48V range, and pan-India dealer supply, SPARS Battery is built to power India's electric mobility revolution.",
     manufacturing: "Large-scale battery cell assembly, pack manufacturing & BMS integration — Noida, UP",
     productCount: 6,
     focus: [

@@ -1,5 +1,5 @@
 export const IMAGES = {
-  logo: "/brands/kalpna-traders-logo.svg",
+  logo: "/brands/kalpana-traders-logo.svg",
   hero: "/images/sections/hero.jpg",
   factory: "/images/scooters/scooter-lineup-4colors.png",
   team: "/images/sections/team.jpg",
@@ -20,7 +20,7 @@ export const IMAGES = {
 } as const;
 
 export const BRAND_LOGOS = {
-  "kalpna-traders": "/brands/kalpna-traders-logo.svg",
+  "kalpana-traders": "/brands/kalpana-traders-logo.svg",
   "spars-electric": "/brands/spars-electric-logo.svg",
   "spars-battery": "/brands/spars-battery-logo.svg",
   "killa-electronics": "/brands/killa-electronics-logo.svg",

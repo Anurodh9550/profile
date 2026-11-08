@@ -19,7 +19,7 @@ const TOTAL_PAGES = 18;
 
 const INDEX = [
   { n: 3, t: "Company Overview" },
-  { n: 4, t: "About Kalpna Traders" },
+  { n: 4, t: "About Kalpana Traders" },
   { n: 5, t: "Our Brands" },
   { n: 6, t: "SPARS Electric" },
   { n: 7, t: "SPARS Electric — Products" },
@@ -83,7 +83,7 @@ function CoverPage() {
   return (
     <section className="cpdf-cover">
       <div className="cpdf-cover__top">
-        <Image src={IMAGES.logo} alt="Kalpna Traders" width={72} height={72} className="cpdf-cover__logo" />
+        <Image src={IMAGES.logo} alt="Kalpana Traders" width={72} height={72} className="cpdf-cover__logo" />
         <span className="cpdf-cover__year">Corporate Profile · 2026</span>
       </div>
       <div className="cpdf-cover__main">
@@ -236,9 +236,9 @@ export function CompanyProfileDocument() {
         </div>
       </PageShell>
 
-      <PageShell page={4} eyebrow="About" title="About Kalpna Traders">
+      <PageShell page={4} eyebrow="About" title="About Kalpana Traders">
         <p className="cpdf-page__intro">
-          Kalpna Traders was established with a clear vision: to build an integrated electric mobility
+          Kalpana Traders was established with a clear vision: to build an integrated electric mobility
           ecosystem under one corporate umbrella. Rather than operating as isolated product lines, our
           three brands collaborate — SPARS Electric scooters are powered by SPARS Battery packs and
           controlled by Killa Electronics components — creating a vertically aligned supply chain from
@@ -281,7 +281,7 @@ export function CompanyProfileDocument() {
 
       <PageShell page={5} eyebrow="Brands" title="Our Three Brands">
         <p className="cpdf-page__intro">
-          Each brand under Kalpna Traders operates with dedicated manufacturing capability, product
+          Each brand under Kalpana Traders operates with dedicated manufacturing capability, product
           portfolio, and market focus — while sharing infrastructure, quality systems, and commercial
           partnerships at the group level.
         </p>
@@ -321,7 +321,7 @@ export function CompanyProfileDocument() {
       <PageShell page={6} eyebrow="Brand Profile" title="SPARS Electric" accent="green" footerLeft="SPARS Electric · sparselectric.com">
         <BrandHero brandId="spars-electric" accent="green" />
         <p className="cpdf-page__intro">
-          SPARS Electric is Kalpna Traders&apos; flagship electric vehicle brand — manufacturing premium
+          SPARS Electric is Kalpana Traders&apos; flagship electric vehicle brand — manufacturing premium
           electric scooters from Noida for urban commuters, young professionals, and fleet operators.
           With models including ENVY, VICTORY, RX-100, OMEGA, KNIGHT, and KNIGHT-X, SPARS Electric
           offers zero-emission mobility with in-house financing, lithium battery integration, and a
@@ -447,7 +447,7 @@ export function CompanyProfileDocument() {
 
       <PageShell page={13} eyebrow="Synergy" title="Integrated EV Ecosystem">
         <p className="cpdf-page__intro">
-          Kalpna Traders&apos; unique advantage is vertical integration — components, batteries, and
+          Kalpana Traders&apos; unique advantage is vertical integration — components, batteries, and
           vehicles designed and manufactured together, reducing cost, improving quality control, and
           enabling faster product development cycles.
         </p>
@@ -479,9 +479,9 @@ export function CompanyProfileDocument() {
         </div>
       </PageShell>
 
-      <PageShell page={14} eyebrow="Partnership" title="Why Partner With Kalpna Traders">
+      <PageShell page={14} eyebrow="Partnership" title="Why Partner With Kalpana Traders">
         <p className="cpdf-page__intro">
-          Kalpna Traders offers dealers, investors, and institutional partners a compelling platform —
+          Kalpana Traders offers dealers, investors, and institutional partners a compelling platform —
           multi-brand product depth, Noida manufacturing credibility, and an integrated EV supply chain.
         </p>
         <div className="cpdf-grid-3">
@@ -496,7 +496,7 @@ export function CompanyProfileDocument() {
 
       <PageShell page={15} eyebrow="Dealers" title="Dealer & Partnership Program">
         <p className="cpdf-page__intro">
-          Join the Kalpna Traders dealer network and represent SPARS Electric, SPARS Battery, and Killa
+          Join the Kalpana Traders dealer network and represent SPARS Electric, SPARS Battery, and Killa
           Electronics in your territory. We provide structured onboarding, product training, marketing
           support, and competitive margins.
         </p>
@@ -558,7 +558,7 @@ export function CompanyProfileDocument() {
 
       <PageShell page={17} eyebrow="Growth" title="Expansion Roadmap">
         <p className="cpdf-page__intro">
-          Kalpna Traders is on a defined growth trajectory — scaling manufacturing capacity, expanding
+          Kalpana Traders is on a defined growth trajectory — scaling manufacturing capacity, expanding
           geographic coverage, diversifying product lines, and strengthening technology capabilities.
         </p>
         <div className="cpdf-timeline">

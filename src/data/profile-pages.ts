@@ -88,7 +88,7 @@ export const profilePages: ProfilePageData[] = [
     title: "About Us",
     heading: "About SPARS ELECTRIC & Group Brands",
     intro:
-      "SPARS ELECTRIC is the flagship EV brand of Mass Kalpna Traders — supported by SPARS BATTERY (energy solutions) and KILLA ELECTRONICS (smart components). Together they form an integrated electric mobility ecosystem manufactured from Noida.",
+      "SPARS ELECTRIC is the flagship EV brand of Mass Kalpana Traders — supported by SPARS BATTERY (energy solutions) and KILLA ELECTRONICS (smart components). Together they form an integrated electric mobility ecosystem manufactured from Noida.",
     cards: [
       {
         title: "Group brands",
@@ -127,7 +127,7 @@ export const profilePages: ProfilePageData[] = [
     intro:
       "SPARS ELECTRIC is architected for structured, compliance-led growth — from Noida assembly excellence to a nationally recognised electric mobility brand.",
     timeline: [
-      { year: "FOUND", text: "Mass Kalpna Traders establishes SPARS ELECTRIC as a focused EV brand." },
+      { year: "FOUND", text: "Mass Kalpana Traders establishes SPARS ELECTRIC as a focused EV brand." },
       { year: "SETUP", text: "Noida manufacturing & assembly infrastructure commissioned." },
       { year: "BUILD", text: "Product architecture, supplier qualification, and dealer framework developed." },
       { year: "LAUNCH", text: "Electric scooter portfolio rollout and channel onboarding initiated." },

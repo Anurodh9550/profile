@@ -8,9 +8,9 @@ import { IMAGES } from "@/lib/images";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Our Brands | Mass Kalpna Traders",
+  title: "Our Brands | Mass Kalpana Traders",
   description:
-    "SPARS ELECTRIC, SPARS BATTERY, and KILLA ELECTRONICS — multi-brand portfolio under Mass Kalpna Traders, Noida.",
+    "SPARS ELECTRIC, SPARS BATTERY, and KILLA ELECTRONICS — multi-brand portfolio under Mass Kalpana Traders, Noida.",
 };
 
 export default function BrandsPage() {

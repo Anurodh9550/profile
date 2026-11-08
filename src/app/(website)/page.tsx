@@ -34,7 +34,7 @@ export default function HomePage() {
           <div className="hero__brand-row">
             <Image
               src={IMAGES.logo}
-              alt="Kalpna Traders"
+              alt="Kalpana Traders"
               width={56}
               height={56}
               className="hero__logo"
@@ -45,7 +45,7 @@ export default function HomePage() {
           </div>
           <span className="hero__badge">{COMPANY.legalName} · Noida, UP</span>
           <h1>
-            <span>Kalpna Traders</span> — Powering India&apos;s EV Future
+            <span>Kalpana Traders</span> — Powering India&apos;s EV Future
           </h1>
           <p className="hero__tagline">{COMPANY.tagline}</p>
           <div className="hero__actions">
@@ -111,7 +111,7 @@ export default function HomePage() {
           <SectionHeading
             eyebrow="Product Portfolio"
             title="50+ Products · 3 Manufacturing Divisions"
-            description="Electric scooters, lithium battery packs, motor controllers, displays, chargers, and EV components — all manufactured under Kalpna Traders."
+            description="Electric scooters, lithium battery packs, motor controllers, displays, chargers, and EV components — all manufactured under Kalpana Traders."
             align="center"
           />
           {GROUP_BRANDS.map((brand) => {
@@ -143,7 +143,7 @@ export default function HomePage() {
       <section className="section">
         <div className="site-container">
           <SectionHeading
-            eyebrow="Why Kalpna Traders"
+            eyebrow="Why Kalpana Traders"
             title="Built for Dealers, Investors & Partners"
             align="center"
           />

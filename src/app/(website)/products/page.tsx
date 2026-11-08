@@ -7,7 +7,7 @@ import { brandProducts } from "@/lib/site-data";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Products | Kalpna Traders",
+  title: "Products | Kalpana Traders",
   description:
     "Explore products from SPARS ELECTRIC, SPARS BATTERY, and KILLA ELECTRONICS — manufacturing from Noida, India.",
 };
@@ -27,7 +27,7 @@ export default function ProductsPage() {
           <span className="page-hero__eyebrow">Products</span>
           <h1>50+ Products Across Three Brands</h1>
           <p>
-            Kalpna Traders manufactures electric scooters, battery packs, and electronics
+            Kalpana Traders manufactures electric scooters, battery packs, and electronics
             components — an integrated product ecosystem from Noida, Uttar Pradesh.
           </p>
         </div>

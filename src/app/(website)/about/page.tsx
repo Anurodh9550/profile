@@ -52,7 +52,7 @@ export default function AboutPage() {
                 <li>Dealer network, fleet solutions & institutional partnerships</li>
               </ul>
             </div>
-            <SectionImage src={IMAGES.about} alt="Kalpna Traders corporate" />
+            <SectionImage src={IMAGES.about} alt="Kalpana Traders corporate" />
           </div>
         </div>
       </section>

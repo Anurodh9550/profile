@@ -5,9 +5,9 @@ import type { Metadata } from "next";
 import "./profile-pdf.css";
 
 export const metadata: Metadata = {
-  title: "Company Profile PDF | Kalpna Traders",
+  title: "Company Profile PDF | Kalpana Traders",
   description:
-    "Download the full colorful company profile of Mass Kalpna Traders — SPARS Electric, SPARS Battery, Killa Electronics.",
+    "Download the full colorful company profile of Mass Kalpana Traders — SPARS Electric, SPARS Battery, Killa Electronics.",
 };
 
 export default function CompanyProfilePage() {

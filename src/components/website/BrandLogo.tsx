@@ -10,7 +10,7 @@ export function BrandLogo({
   size?: number;
   className?: string;
 }) {
-  const src = BRAND_LOGOS[brandId as keyof typeof BRAND_LOGOS] ?? BRAND_LOGOS["kalpna-traders"];
+  const src = BRAND_LOGOS[brandId as keyof typeof BRAND_LOGOS] ?? BRAND_LOGOS["kalpana-traders"];
 
   return (
     <Image

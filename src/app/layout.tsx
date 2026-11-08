@@ -18,12 +18,12 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Kalpna Traders | SPARS Electric · SPARS Battery · Killa Electronics",
+  title: "Kalpana Traders | SPARS Electric · SPARS Battery · Killa Electronics",
   description:
-    "Kalpna Traders — multi-brand manufacturing group. SPARS Electric, SPARS Battery, Killa Electronics from Noida, India.",
+    "Kalpana Traders — multi-brand manufacturing group. SPARS Electric, SPARS Battery, Killa Electronics from Noida, India.",
   icons: {
-    icon: "/brands/kalpna-traders-logo.svg",
-    apple: "/brands/kalpna-traders-logo.svg",
+    icon: "/brands/kalpana-traders-logo.svg",
+    apple: "/brands/kalpana-traders-logo.svg",
   },
 };
 

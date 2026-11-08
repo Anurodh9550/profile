@@ -4,8 +4,8 @@ import { BRAND, COMPANY, GROUP_BRANDS, SOCIAL_LINKS } from "@/lib/brand";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact | Kalpna Traders",
-  description: "Contact Kalpna Traders for dealer partnerships, fleet enquiries, careers, and business collaboration.",
+  title: "Contact | Kalpana Traders",
+  description: "Contact Kalpana Traders for dealer partnerships, fleet enquiries, careers, and business collaboration.",
 };
 
 export default function ContactPage() {
@@ -16,7 +16,7 @@ export default function ContactPage() {
           <span className="page-hero__eyebrow">Contact</span>
           <h1>Get in Touch</h1>
           <p>
-            Connect with Kalpna Traders for dealer partnerships, fleet solutions, product
+            Connect with Kalpana Traders for dealer partnerships, fleet solutions, product
             enquiries, careers, and institutional collaboration.
           </p>
         </div>

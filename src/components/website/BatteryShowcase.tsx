@@ -48,7 +48,7 @@ export function BatteryShowcase() {
         <SectionHeading
           eyebrow="SPARS BATTERY · Manufacturing Division"
           title="India's Growing Lithium-Ion Battery Manufacturer"
-          description="SPARS Battery is the energy backbone of the Kalpna Traders group — a large-scale lithium-ion manufacturing division producing premium EV battery packs for scooters, fleets, dealers, and OEM partners across India. Power. Performance. Reliability."
+          description="SPARS Battery is the energy backbone of the Kalpana Traders group — a large-scale lithium-ion manufacturing division producing premium EV battery packs for scooters, fleets, dealers, and OEM partners across India. Power. Performance. Reliability."
           align="center"
         />
 
